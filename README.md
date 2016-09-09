@@ -8,3 +8,7 @@ Original source repository [here](https://github.com/chriskottom/minitest_cookbo
 
 - Added initial project template for FizzBuzz example app.
 
+### Resources
+
+- [Minitest Quick Reference](http://www.mattsears.com/articles/2011/12/10/minitest-quick-reference/)
+
